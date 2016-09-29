@@ -1,0 +1,8 @@
+const SEARCH_USER = 'SEARCH_USER'
+const UPDATE_QUERY = 'UPDATE_QUERY'
+
+export {
+  SEARCH_USER,
+  UPDATE_QUERY
+}
+
